@@ -15,6 +15,37 @@
 </head>
 <body>
     
+<nav class="navbar navbar-expand-lg fixed-top" id="nav">
+
+<div class="container">
+            
+<img src="images/white doctor sign.png" width="90" align="left"> <a href="https://hospitalnewlife.herokuapp.com/" class="navbar-brand"> &nbsp;NewLife Hospital</a>
+
+<div class="collapse navbar-collapse" id="myNavbar">
+
+<ul class="navbar-nav ml-auto">
+
+    <li class="nav-item">
+        <a class="nav-link" href="login.php">Login</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="covid.php">COVID-19</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="services.php">Services</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="contact.php">Contact</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="about.php">About</a>
+    </li>
+</ul>
+</div>
+</div>
+</nav>
+
+<br><br><br>
     <div class = "container">
         <div class="row justify-content-md-center text-center">
             <form action="index.php" method = "POST" class = "login-form">
