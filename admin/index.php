@@ -19,7 +19,7 @@
 
 <div class="container">
             
-<img src="images/white doctor sign.png" width="90" align="left"> <a href="https://hospitalnewlife.herokuapp.com/" class="navbar-brand"> &nbsp;NewLife Hospital</a>
+<img src="../images/white doctor sign.png" width="90" align="left"> <a href="https://hospitalnewlife.herokuapp.com/" class="navbar-brand"> &nbsp;NewLife Hospital</a>
 
 <div class="collapse navbar-collapse" id="myNavbar">
 
