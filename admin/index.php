@@ -25,9 +25,7 @@
 
 <ul class="navbar-nav ml-auto">
 
-    <li class="nav-item">
-        <a class="nav-link" href="login.php">Login</a>
-    </li>
+
     <li class="nav-item">
         <a class="nav-link" href="covid.php">COVID-19</a>
     </li>
