@@ -18,7 +18,7 @@
         <div class="row justify-content-md-center text-center">
             <form action="index.php" method = "POST" class = "login-form">
                 <div>
-                    <h1>Login</h1>
+                    <h1>Doctor Login</h1>
                 </div>
                 <?php
                     if(isset($_POST['email']) && isset($_POST['password'])){
