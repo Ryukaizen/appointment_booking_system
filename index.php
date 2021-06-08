@@ -16,7 +16,7 @@
                     <a href="https://hospitalnewlife.herokuapp.com" class = "nav-item nav-link">Home</a>
                     <!-- <a href="appointment.php" class = "nav-item nav-link">Appointment</a> -->
                     <!-- modal start -->
-                    <button type="button" style = "border: none;  background: none;" class="" data-toggle="modal" data-target=".bd-example-modal-sm"><span style = "color: #bbb">Check Your Appointment</span></button>
+                    <!-- <button type="button" style = "border: none;  background: none;" class="" data-toggle="modal" data-target=".bd-example-modal-sm"><span style = "color: #bbb">Check Your Appointment</span></button> -->
                     <div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-hidden="true">
                         <div class="modal-dialog modal-sm">
                             <div class="modal-content">
