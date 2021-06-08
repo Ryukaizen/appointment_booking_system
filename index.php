@@ -3,7 +3,7 @@
     include("./assets/inc/header.php");
     include("./assets/inc/conn.php");
 ?>
-<div style = "background-image: url(./assets/img/doctor.jpg); height: 650px; background-size: cover">
+<div style = "background-image: url(https://telegra.ph/file/b300b423efab26b220594.jpg); height: 650px; background-size: cover">
     <div style="height: 650px; background-color: rgba(0, 0, 0, 0.4);" >
         <nav class = "navbar navbar-expand-md navbar-dark">
             <a href="index.php" class = "navbar-brand">Book Appointment</a>
