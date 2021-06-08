@@ -6,14 +6,14 @@
 <div style = "background-image: url(./assets/img/doctor.jpg); height: 650px; background-size: cover">
     <div style="height: 650px; background-color: rgba(0, 0, 0, 0.4);" >
         <nav class = "navbar navbar-expand-md navbar-dark">
-            <a href="index.php" class = "navbar-brand">Appointment Booking</a>
+            <a href="index.php" class = "navbar-brand">Book Appointment</a>
             <button type="button" class = "navbar-toggler" data-toggle="collapse" data-target = "#navbarCollapse">
                 <span class = "navbar-toggler-icon"></span>
             </button>
 
             <div class = "collapse navbar-collapse" id = "navbarCollapse">
                 <div class = "navbar-nav">
-                    <a href="index.php" class = "nav-item nav-link">Home</a>
+                    <a href="https://hospitalnewlife.herokuapp.com" class = "nav-item nav-link">Home</a>
                     <!-- <a href="appointment.php" class = "nav-item nav-link">Appointment</a> -->
                     <!-- modal start -->
                     <button type="button" style = "border: none;  background: none;" class="" data-toggle="modal" data-target=".bd-example-modal-sm"><span style = "color: #bbb">Check Your Appointment</span></button>
