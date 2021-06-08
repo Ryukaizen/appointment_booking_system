@@ -7,7 +7,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lecture Hall Booking</title>
+    <title>Doctor Login</title>
+    <link rel="icon" href="https://telegra.ph/file/5dbf6471c783f869cfdbe.jpg" type="image/icon type">
     <link rel="stylesheet" href="./assets/css/bootstrap4/bootstrap.min.css">
     <!-- <link rel="stylesheet" href="./assets/fontawesome/css/all.css"> -->
     <link rel="stylesheet" href="./assets/css/styles.css">
