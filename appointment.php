@@ -13,7 +13,7 @@
     <div style="height: 650px; background-color: rgba(0, 0, 0, 0.4);" >
         <nav class = "navbar navbar-expand-md navbar-dark">
             <span class = "navbar-brand">
-                Appointment Booking
+                Patient Section
             </span>
             <button type="button" class = "navbar-toggler" data-toggle="collapse" data-target = "#navbarCollapse">
                 <span class = "navbar-toggler-icon"></span>
